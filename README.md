@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hola, soy Felipe Carranza
 
-<!--
-**carranzapacheco/carranzapacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas e Informática (6to ciclo)  
+📍 Trujillo, Perú  
 
-Here are some ideas to get you started:
+Soy estudiante universitario con interés en el desarrollo web y backend. 
+He desarrollado proyectos académicos y personales utilizando tecnologías modernas, 
+enfocados en la creación de aplicaciones web funcionales y responsivas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Proyectos Destacados
+
+🔹 **Lizar** – Plataforma web para emprendimiento personal  
+React · Tailwind CSS · Vercel  
+👉 https://lizar.vercel.app/
+
+🔹 **Hotel Marit** – Aplicación web informativa  
+Angular · Materialize · Vercel  
+👉 https://marit.vercel.app/
+
+🔹 **Sistema de gestión académica – Colegio**  
+Spring Boot · Bootstrap · PostgreSQL
+
+👉 https://colegio-cekh.onrender.com/
+
+---
+
+## 🛠 Tecnologías
+- Java | Spring Boot  
+- React | Angular  
+- JavaScript | HTML | CSS | Tailwind  
+- PostgreSQL | MySQL  
+- Git | GitHub  
+
+---
+
+📫 **Contacto**  
+✉️ carranzapacheco.f.a@gmail.com
