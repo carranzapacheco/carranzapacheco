@@ -19,10 +19,20 @@ React · Tailwind CSS · Vercel
 Angular · Materialize · Vercel  
 👉 https://marit.vercel.app/
 
-🔹 **Sistema de gestión académica – Colegio**  
+🔹 **Sistema de gestión académica – Colegi, inhabilitado**  
 Spring Boot · Bootstrap · PostgreSQL
 
 👉 https://colegio-cekh.onrender.com/
+
+🔹 **Emprendimiento - Kora Memories**  
+Next.js
+
+👉 https://koramemories.vercel.app/
+
+🔹 **Perfil Personalizado**  
+Next.js
+
+👉 https://steffanomoya.vercel.app/
 
 ---
 
