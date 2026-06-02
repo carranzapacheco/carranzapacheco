@@ -19,9 +19,6 @@ React · Tailwind CSS · Vercel
 Angular · Materialize · Vercel  
 👉 https://marit.vercel.app/
 
-
-👉 https://colegio-cekh.onrender.com/
-
 🔹 **Emprendimiento - Kora Memories**  
 Next.js
 
