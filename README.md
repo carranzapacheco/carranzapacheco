@@ -19,8 +19,6 @@ React · Tailwind CSS · Vercel
 Angular · Materialize · Vercel  
 👉 https://marit.vercel.app/
 
-🔹 **Sistema de gestión académica – Colegi, inhabilitado**  
-Spring Boot · Bootstrap · PostgreSQL
 
 👉 https://colegio-cekh.onrender.com/
 
