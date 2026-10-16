@@ -1,45 +1,20 @@
-## 👋 Hola, soy Felipe Carranza
+# Hola, soy Felipe Carranza 👋
 
-🎓 Estudiante de Ingeniería de Sistemas e Informática (6to ciclo)  
-📍 Trujillo, Perú  
+Soy estudiante de Ingeniería de Sistemas e Informática y actualmente estoy enfocado en el desarrollo backend con Java y Spring Boot.
 
-Soy estudiante universitario con interés en el desarrollo web y backend. 
-He desarrollado proyectos académicos y personales utilizando tecnologías modernas, 
-enfocados en la creación de aplicaciones web funcionales y responsivas.
+### Tecnologías que utilizo
 
----
+- Java
+- Spring Boot
+- MySQL y SQL Server
+- Git y GitHub
+- Postman
+- HTML, CSS y Bootstrap
+- JavaScript
+- Angular y React
 
-## 🚀 Proyectos Destacados
+### Actualmente
 
-🔹 **Lizar** – Plataforma web para emprendimiento personal  
-React · Tailwind CSS · Vercel  
-👉 https://lizar.vercel.app/
+Estoy desarrollando proyectos universitarios orientados al desarrollo de aplicaciones web, APIs y sistemas conectados a bases de datos.
 
-🔹 **Hotel Marit** – Aplicación web informativa  
-Angular · Materialize · Vercel  
-👉 https://marit.vercel.app/
-
-🔹 **Emprendimiento - Kora Memories**  
-Next.js
-
-👉 https://koramemories.vercel.app/
-
-🔹 **Perfil Personalizado**  
-Next.js
-
-👉 https://steffanomoya.vercel.app/
-👉 https://amarocarranza.vercel.app/
-
----
-
-## 🛠 Tecnologías
-- Java | Spring Boot  
-- React | Angular  
-- JavaScript | HTML | CSS | Tailwind  
-- PostgreSQL | MySQL  
-- Git | GitHub  
-
----
-
-📫 **Contacto**  
-✉️ carranzapacheco.f.a@gmail.com
+Mi objetivo es seguir fortaleciendo mis conocimientos en Java y Spring Boot y obtener experiencia profesional mediante prácticas preprofesionales en desarrollo de software.
